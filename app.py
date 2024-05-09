@@ -3,7 +3,7 @@ import plotly.express as px
 import streamlit as st
 
 # Leer el archivo CSV del conjunto de datos
-car_data = pd.read_csv('/Users/mariasantos/mi_proyecto/Proyecto/vehicles_us.csv')
+car_data = pd.read_csv('/Users/mariasantos/Proyecto2/vehicles_us.csv')
 
 # Definir el contenido de la aplicación web
 st.header('Car Listings Dashboard')
