@@ -1,5 +1,7 @@
 # Proyecto2
-Descripción del Proyecto
+
+#Descripción del Proyecto
+
 Este proyecto consiste en el desarrollo de una aplicación web para la visualización y análisis de datos relacionados con anuncios de venta de vehículos en Estados Unidos. La aplicación permite a los usuarios explorar diferentes aspectos de los datos, como el precio, el año del modelo, el kilometraje, el estado del vehículo y otros atributos relevantes.
 
 La aplicación web proporciona las siguientes funcionalidades:
